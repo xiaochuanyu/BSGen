@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BSGen/BSGen.iml" filepath="$PROJECT_DIR$/BSGen/BSGen.iml" />
       <module fileurl="file://$PROJECT_DIR$/BSGenModule/BSGenModule.iml" filepath="$PROJECT_DIR$/BSGenModule/BSGenModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/BSGenProject.iml" filepath="$PROJECT_DIR$/BSGenProject.iml" />
     </modules>

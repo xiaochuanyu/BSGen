@@ -21,15 +21,9 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list id="8d358b8f-6671-490b-9e8e-fe7fe56d9576" name="Default" comment="" />
-    <list default="true" id="1aa952cd-3934-46f6-ab38-f771da52db95" name="Updated to newer Android Studio version." comment="Updated to newer Android Studio version.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icon_hires.png" />
-      <change type="DELETED" beforePath="D:\Repo\Gitub\BSGenProject\BSGenModule\src\main\res\drawable\bs.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Repo\Gitub\BSGenProject\BSGenModule\src\main\res\drawable\manager.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BSGenModule/BSGenModule.iml" afterPath="$PROJECT_DIR$/BSGenModule/BSGenModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BSGenProject.iml" afterPath="$PROJECT_DIR$/BSGenProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BSGenModule/build.gradle" afterPath="$PROJECT_DIR$/BSGenModule/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+    <list default="true" id="8d358b8f-6671-490b-9e8e-fe7fe56d9576" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BSGen.iws" />
@@ -99,62 +93,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="icon_hires.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/icon_hires.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="BSGenApplication.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/BSGenApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="133">
+            <state line="15" column="38" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="551">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradlew" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew">
+      <file leaf-file-name="BSGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/BSGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="3230">
+            <state line="57" column="0" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="1577">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSGenProject.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BSGenProject.iml">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361">
+            <state line="31" column="45" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0" vertical-offset="349" max-vertical-offset="988">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <file leaf-file-name="WordListActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/WordListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+            <state line="76" column="32" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1843">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSGenModule.iml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BSGenModule.iml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BSGenModule/BSGenModule.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1501">
+            <state line="10" column="50" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1501">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BSGenModule/build.gradle">
+      <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+            <state line="23" column="76" selection-start="406" selection-end="419" vertical-scroll-proportion="0.46575344" vertical-offset="233" max-vertical-offset="15561">
               <folding />
             </state>
           </provider>
@@ -236,7 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/BSGen/src/main/java/com/xiao/bsgen/BSGenerator.java" />
         <option value="$PROJECT_DIR$/BSGen/src/main/java/com/xiao/bsgen/MainActivity.java" />
         <option value="$PROJECT_DIR$/BSGen/src/main/res/layout/activity_wordlist.xml" />
         <option value="$PROJECT_DIR$/BSGen/src/main/res/values/strings.xml" />
@@ -252,6 +238,7 @@
         <option value="$PROJECT_DIR$/BSGen/src/main/java/com/xiao/bsgen/WordListActivity.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/BSGenModule/build.gradle" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -339,35 +326,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gradle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BSGen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BSGenProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="BSGenModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BSGen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BSGenProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BSGen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,10 +335,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="ExportedApkPath" value="D:\Repo\Gitub\BSGenProject\BSGenModule\BSGenModule.apk" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
@@ -392,9 +353,11 @@
     <property name="AndroidRunProguardForReleaseBuild" value="false" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -547,7 +510,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8d358b8f-6671-490b-9e8e-fe7fe56d9576" name="Default" comment="" />
-      <changelist id="1aa952cd-3934-46f6-ab38-f771da52db95" name="initial commit" comment="Initial commit." />
+      <changelist id="" name="initial commit" comment="Initial commit." />
       <created>1372228848832</created>
       <updated>1372228848832</updated>
     </task>
@@ -583,29 +546,29 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5199362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23923445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33652312" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24801272" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24720894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33652312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24562798" sideWeight="0.4800638" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24562798" sideWeight="0.76076555" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3476874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272293" sideWeight="0.67145133" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33652312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -671,60 +634,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.04269663" vertical-offset="0" max-vertical-offset="445" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="223" selection-end="223" vertical-scroll-proportion="0.17078651" vertical-offset="0" max-vertical-offset="445" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="895" selection-end="895" vertical-scroll-proportion="-11.12" vertical-offset="102" max-vertical-offset="703" />
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="217" selection-end="217" vertical-scroll-proportion="0.66741574" vertical-offset="45" max-vertical-offset="646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/res/drawable/manager2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/BSGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.048101265" vertical-offset="133" max-vertical-offset="1577">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/BSGenApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="393" selection-end="394" vertical-scroll-proportion="0.56905156" vertical-offset="0" max-vertical-offset="601">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="31" selection-start="817" selection-end="818" vertical-scroll-proportion="0.2529118" vertical-offset="209" max-vertical-offset="988">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradlew.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="365" selection-end="365" vertical-scroll-proportion="-0.54931974" vertical-offset="513" max-vertical-offset="1824">
-          <folding />
-        </state>
+        <state line="10" column="29" selection-start="365" selection-end="365" vertical-scroll-proportion="-0.54931974" vertical-offset="513" max-vertical-offset="1824" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/icon_hires.png">
@@ -762,14 +679,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BSGenModule/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+        <state line="13" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.35042736" vertical-offset="83" max-vertical-offset="551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/BSGenApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="38" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="45" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0" vertical-offset="349" max-vertical-offset="988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/WordListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="32" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="1843">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="479" selection-end="479" vertical-scroll-proportion="0.51121074" vertical-offset="0" max-vertical-offset="446">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BSGenModule/src/main/java/com/xiao/bsgen/BSGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="1359" selection-end="1359" vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="1577">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BSGenModule/BSGenModule.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1501">
+        <state line="10" column="50" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1501">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="76" selection-start="406" selection-end="419" vertical-scroll-proportion="0.46575344" vertical-offset="233" max-vertical-offset="15561">
           <folding />
         </state>
       </provider>
