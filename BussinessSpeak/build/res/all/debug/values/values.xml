@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Repo/Gitub/temp/BussinessSpeakProject/BussinessSpeak/src/main/res/values/strings.xml -->
+    <string-array name="adjectives">
+        <item>"24/7"</item>
+        <item>"24/365"</item>
+        <item>"accurate"</item>
+        <item>"adaptive"</item>
+        <item>"alternative"</item>
+        <item>"an expanded array of"</item>
+        <item>"B2B"</item>
+        <item>"B2C"</item>
+        <item>"backend"</item>
+        <item>"backward-compatible"</item>
+        <item>"best-of-breed"</item>
+        <item>"bleeding-edge"</item>
+        <item>"bricks-and-clicks"</item>
+        <item>"business"</item>
+        <item>"clicks-and-mortar"</item>
+        <item>"client-based"</item>
+        <item>"client-centered"</item>
+        <item>"client-centric"</item>
+        <item>"client-focused"</item>
+        <item>"collaborative"</item>
+        <item>"compelling"</item>
+        <item>"competitive"</item>
+        <item>"cooperative"</item>
+        <item>"corporate"</item>
+        <item>"cost effective"</item>
+        <item>"covalent"</item>
+        <item>"cross functional"</item>
+        <item>"cross-media"</item>
+        <item>"cross-platform"</item>
+        <item>"cross-unit"</item>
+        <item>"customer directed"</item>
+        <item>"customized"</item>
+        <item>"cutting-edge"</item>
+        <item>"distinctive"</item>
+        <item>"distributed"</item>
+        <item>"diverse"</item>
+        <item>"dynamic"</item>
+        <item>"e-business"</item>
+        <item>"economically sound"</item>
+        <item>"effective"</item>
+        <item>"efficient"</item>
+        <item>"emerging"</item>
+        <item>"empowered"</item>
+        <item>"enabled"</item>
+        <item>"end-to-end"</item>
+        <item>"enterprise"</item>
+        <item>"enterprise-wide"</item>
+        <item>"equity invested"</item>
+        <item>"error-free"</item>
+        <item>"ethical"</item>
+        <item>"excellent"</item>
+        <item>"exceptional"</item>
+        <item>"extensible"</item>
+        <item>"extensive"</item>
+        <item>"flexible"</item>
+        <item>"focused"</item>
+        <item>"frictionless"</item>
+        <item>"front-end"</item>
+        <item>"fully researched"</item>
+        <item>"fully tested"</item>
+        <item>"functional"</item>
+        <item>"functionalized"</item>
+        <item>"fungible"</item>
+        <item>"future-proof"</item>
+        <item>"global"</item>
+        <item>"go forward"</item>
+        <item>"goal-oriented"</item>
+        <item>"granular"</item>
+        <item>"high standards in"</item>
+        <item>"high-payoff"</item>
+        <item>"high-quality"</item>
+        <item>"highly efficient"</item>
+        <item>"holistic"</item>
+        <item>"impactful"</item>
+        <item>"inexpensive"</item>
+        <item>"innovative"</item>
+        <item>"installed base"</item>
+        <item>"integrated"</item>
+        <item>"interactive"</item>
+        <item>"interdependent"</item>
+        <item>"intermandated"</item>
+        <item>"interoperable"</item>
+        <item>"intuitive"</item>
+        <item>"just in time"</item>
+        <item>"leading-edge"</item>
+        <item>"leveraged"</item>
+        <item>"long-term high-impact"</item>
+        <item>"low-risk high-yield"</item>
+        <item>"magnetic"</item>
+        <item>"maintainable"</item>
+        <item>"market positioning"</item>
+        <item>"market-driven"</item>
+        <item>"mission-critical"</item>
+        <item>"multidisciplinary"</item>
+        <item>"multifunctional"</item>
+        <item>"multimedia based"</item>
+        <item>"next-generation"</item>
+        <item>"one-to-one"</item>
+        <item>"open-source"</item>
+        <item>"optimal"</item>
+        <item>"orthogonal"</item>
+        <item>"out-of-the-box"</item>
+        <item>"pandemic"</item>
+        <item>"parallel"</item>
+        <item>"performance based"</item>
+        <item>"plug-and-play"</item>
+        <item>"premier"</item>
+        <item>"premium"</item>
+        <item>"principle-centered"</item>
+        <item>"proactive"</item>
+        <item>"process-centric"</item>
+        <item>"professional"</item>
+        <item>"progressive"</item>
+        <item>"prospective"</item>
+        <item>"quality"</item>
+        <item>"real-time"</item>
+        <item>"reliable"</item>
+        <item>"resource sucking"</item>
+        <item>"resource maximizing"</item>
+        <item>"resource-leveling"</item>
+        <item>"revolutionary"</item>
+        <item>"robust"</item>
+        <item>"scalable"</item>
+        <item>"seamless"</item>
+        <item>"stand-alone"</item>
+        <item>"standardized"</item>
+        <item>"standards compliant"</item>
+        <item>"state of the art"</item>
+        <item>"sticky"</item>
+        <item>"strategic"</item>
+        <item>"superior"</item>
+        <item>"sustainable"</item>
+        <item>"synergistic"</item>
+        <item>"tactical"</item>
+        <item>"team building"</item>
+        <item>"team driven"</item>
+        <item>"technically sound"</item>
+        <item>"timely"</item>
+        <item>"top-line"</item>
+        <item>"transparent"</item>
+        <item>"turnkey"</item>
+        <item>"ubiquitous"</item>
+        <item>"unique"</item>
+        <item>"user-centric"</item>
+        <item>"user friendly"</item>
+        <item>"value-added"</item>
+        <item>"vertical"</item>
+        <item>"viral"</item>
+        <item>"virtual"</item>
+        <item>"visionary"</item>
+        <item>"web-enabled"</item>
+        <item>"wireless"</item>
+        <item>"world-class"</item>
+        <item>"worldwide"</item>
+    </string-array>
+    <string-array name="adverbs">
+        <item>"appropriately"</item>
+        <item>"assertively"</item>
+        <item>"authoritatively"</item>
+        <item>"collaboratively"</item>
+        <item>"compellingly"</item>
+        <item>"competently"</item>
+        <item>"completely"</item>
+        <item>"continually"</item>
+        <item>"conveniently"</item>
+        <item>"credibly"</item>
+        <item>"distinctively"</item>
+        <item>"dramatically"</item>
+        <item>"dynamically"</item>
+        <item>"efficiently"</item>
+        <item>"energistically"</item>
+        <item>"enthusiastically"</item>
+        <item>"fungibly"</item>
+        <item>"globally"</item>
+        <item>"holisticly"</item>
+        <item>"interactively"</item>
+        <item>"intrinsicly"</item>
+        <item>"monotonectally"</item>
+        <item>"objectively"</item>
+        <item>"phosfluorescently"</item>
+        <item>"proactively"</item>
+        <item>"professionally"</item>
+        <item>"progressively"</item>
+        <item>"quickly"</item>
+        <item>"rapidiously"</item>
+        <item>"seamlessly"</item>
+        <item>"synergistically"</item>
+        <item>"uniquely"</item>
+    </string-array>
+    <string-array name="nouns">
+        <item>"action items"</item>
+        <item>"alignments"</item>
+        <item>"applications"</item>
+        <item>"architectures"</item>
+        <item>"bandwidth"</item>
+        <item>"benefits"</item>
+        <item>"best practices"</item>
+        <item>"catalysts for change"</item>
+        <item>"channels"</item>
+        <item>"clouds"</item>
+        <item>"collaboration and idea-sharing"</item>
+        <item>"communities"</item>
+        <item>"content"</item>
+        <item>"convergence"</item>
+        <item>"core competencies"</item>
+        <item>"customer service"</item>
+        <item>"data"</item>
+        <item>"deliverables"</item>
+        <item>"e-business"</item>
+        <item>"e-commerce"</item>
+        <item>"e-markets"</item>
+        <item>"e-tailers"</item>
+        <item>"e-services"</item>
+        <item>"experiences"</item>
+        <item>"expertise"</item>
+        <item>"functionalities"</item>
+        <item>"fungibility"</item>
+        <item>"growth strategies"</item>
+        <item>"human capital"</item>
+        <item>"ideas"</item>
+        <item>"imperatives"</item>
+        <item>"infomediaries"</item>
+        <item>"information"</item>
+        <item>"infrastructures"</item>
+        <item>"initiatives"</item>
+        <item>"innovation"</item>
+        <item>"intellectual capital"</item>
+        <item>"interfaces"</item>
+        <item>"internal or "organic" sources"</item>
+        <item>"leadership"</item>
+        <item>"leadership skills"</item>
+        <item>"manufactured products"</item>
+        <item>"markets"</item>
+        <item>"materials"</item>
+        <item>"meta-services"</item>
+        <item>"methodologies"</item>
+        <item>"methods of empowerment"</item>
+        <item>"metrics"</item>
+        <item>"mindshare"</item>
+        <item>"models"</item>
+        <item>"networks"</item>
+        <item>"niches"</item>
+        <item>"niche markets"</item>
+        <item>"nosql"</item>
+        <item>"opportunities"</item>
+        <item>""outside the box" thinking"</item>
+        <item>"outsourcing"</item>
+        <item>"paradigms"</item>
+        <item>"partnerships"</item>
+        <item>"platforms"</item>
+        <item>"portals"</item>
+        <item>"potentialities"</item>
+        <item>"rocess improvements"</item>
+        <item>"processes"</item>
+        <item>"products"</item>
+        <item>"quality vectors"</item>
+        <item>"relationships"</item>
+        <item>"resources"</item>
+        <item>"results"</item>
+        <item>"ROI"</item>
+        <item>"scenarios"</item>
+        <item>"schemas"</item>
+        <item>"services"</item>
+        <item>"solutions"</item>
+        <item>"sources"</item>
+        <item>"strategic theme areas"</item>
+        <item>"storage"</item>
+        <item>"supply chains"</item>
+        <item>"synergy"</item>
+        <item>"systems"</item>
+        <item>"technologies"</item>
+        <item>"technology"</item>
+        <item>"testing procedures"</item>
+        <item>"total linkage"</item>
+        <item>"users"</item>
+        <item>"value"</item>
+        <item>"vortals"</item>
+        <item>"web-readiness"</item>
+        <item>"web services"</item>
+    </string-array>
+    <string-array name="verbs">
+        <item>"actualize"</item>
+        <item>"administrate"</item>
+        <item>"aggregate"</item>
+        <item>"architect"</item>
+        <item>"benchmark"</item>
+        <item>"brand"</item>
+        <item>"build"</item>
+        <item>"cloudify"</item>
+        <item>"communicate"</item>
+        <item>"conceptualize"</item>
+        <item>"coordinate"</item>
+        <item>"create"</item>
+        <item>"cultivate"</item>
+        <item>"customize"</item>
+        <item>"deliver"</item>
+        <item>"deploy"</item>
+        <item>"develop"</item>
+        <item>"dinintermediate disseminate"</item>
+        <item>"drive"</item>
+        <item>"embrace"</item>
+        <item>"e-enable"</item>
+        <item>"empower"</item>
+        <item>"enable"</item>
+        <item>"engage"</item>
+        <item>"engineer"</item>
+        <item>"enhance"</item>
+        <item>"envisioneer"</item>
+        <item>"evisculate"</item>
+        <item>"evolve"</item>
+        <item>"expedite"</item>
+        <item>"exploit"</item>
+        <item>"extend"</item>
+        <item>"fabricate"</item>
+        <item>"facilitate"</item>
+        <item>"fashion"</item>
+        <item>"formulate"</item>
+        <item>"foster"</item>
+        <item>"generate"</item>
+        <item>"grow"</item>
+        <item>"harness"</item>
+        <item>"impact"</item>
+        <item>"implement"</item>
+        <item>"incentivize"</item>
+        <item>"incubate"</item>
+        <item>"initiate"</item>
+        <item>"innovate"</item>
+        <item>"integrate"</item>
+        <item>"iterate"</item>
+        <item>"leverage existing"</item>
+        <item>"leverage other's"</item>
+        <item>"maintain"</item>
+        <item>"matrix"</item>
+        <item>"maximize"</item>
+        <item>"mesh"</item>
+        <item>"monetize"</item>
+        <item>"morph"</item>
+        <item>"myocardinate"</item>
+        <item>"negotiate"</item>
+        <item>"network"</item>
+        <item>"optimize"</item>
+        <item>"orchestrate"</item>
+        <item>"parallel task"</item>
+        <item>"plagiarize"</item>
+        <item>"pontificate"</item>
+        <item>"predominate"</item>
+        <item>"procrastinate"</item>
+        <item>"productivate"</item>
+        <item>"productize"</item>
+        <item>"promote"</item>
+        <item>"provide access to"</item>
+        <item>"pursue"</item>
+        <item>"recaptiualize"</item>
+        <item>"reconceptualize"</item>
+        <item>"redefine"</item>
+        <item>"re-engineer"</item>
+        <item>"reintermediate"</item>
+        <item>"reinvent"</item>
+        <item>"repurpose"</item>
+        <item>"restore"</item>
+        <item>"revolutionize"</item>
+        <item>"scale"</item>
+        <item>"seize"</item>
+        <item>"simplify"</item>
+        <item>"strategize"</item>
+        <item>"streamline"</item>
+        <item>"supply"</item>
+        <item>"syndicate"</item>
+        <item>"synergize"</item>
+        <item>"synthesize"</item>
+        <item>"target"</item>
+        <item>"transform"</item>
+        <item>"transition"</item>
+        <item>"underwhelm"</item>
+        <item>"unleash"</item>
+        <item>"utilize"</item>
+        <item>"visualize"</item>
+        <item>"whiteboard"</item>
+    </string-array>
+    <!-- From: file:/D:/Repo/Gitub/temp/BussinessSpeakProject/BussinessSpeak/src/main/res/values/color.xml -->
+    <color name="aqua">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="lime">#00FF00</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal">#008080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <!-- From: file:/D:/Repo/Gitub/temp/BussinessSpeakProject/BussinessSpeak/src/main/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/Repo/Gitub/temp/BussinessSpeakProject/BussinessSpeak/src/main/res/values/strings.xml -->
+    <string name="action_word_list">Word List</string>
+    <string name="adjectives_label">Adjectives</string>
+    <string name="adverbs_label">Adverbs</string>
+    <string name="app_name">Business Speak</string>
+    <string name="display_label">Tap Here For Quality BS</string>
+    <string name="nouns_label">Nouns</string>
+    <string name="verbs_label">Verbs</string>
+    <!-- From: file:/D:/Repo/Gitub/temp/BussinessSpeakProject/BussinessSpeak/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="@android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+</resources>

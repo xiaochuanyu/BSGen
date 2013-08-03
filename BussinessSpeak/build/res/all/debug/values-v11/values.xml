@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Repo/Gitub/temp/BussinessSpeakProject/BussinessSpeak/src/main/res/values-v11/styles.xml -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo">
+        <!-- Application theme. -->
+
+    </style>
+
+</resources>
